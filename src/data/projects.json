@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Lung Cancer Prediction",
+    "imageSrc": "lcp.png",
+    "description": "Predicts if a person is suffering from Lung Cancer.",
+    "skills": ["Numpy", "Scikit-learn", "Pandas","Django"],
+    "source": "https://github.com/ravi24901/Lung_Cancer_Prediction"
+  },
+  {
+    "title": "Ravi's Portfolio",
+    "imageSrc": "portfolio.jpg",
+    "description": "Yes, the fully responsive website you are currently looking at!",
+    "skills": ["React", "Html", "Node", "CSS"],
+    "source": "https://github.com/ravi24901/Ravi_Portfolio"
+  },
+  {
+    "title": "Decentralized Identity Management",
+    "imageSrc": "mc4.jpeg",
+    "description": "A decentralised mobile app which shows the proof of certifications and degrees elimating malpractice in educational certificates.",
+    "skills": ["React-Native", "Smart Contracts"],
+    "source": "https://github.com/ravi24901/MC_Project4"
+  }
+]

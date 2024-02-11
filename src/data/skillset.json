@@ -1,0 +1,66 @@
+[
+    {
+        "skill": "Python",
+        "src":"python.png"
+    },
+    {
+        "skill":"Java",
+        "src": ""
+    },
+    {
+        "skill":"C/C++",
+        "src": ""
+    },
+    {
+        "skill":"Javascript",
+        "src": ""
+    },
+    {
+        "skill":"Git",
+        "src": ""
+    },
+    {
+        "skill":"Docker",
+        "src": ""
+    },
+    {
+        "skill":"Confluence",
+        "src": ""
+    },
+    {
+        "skill":"Wireshark",
+        "src": ""
+    },
+    {
+        "skill":"Java",
+        "src": ""
+    },
+    {
+        "skill":"Java",
+        "src": ""
+    },
+    {
+        "skill":"Java",
+        "src": ""
+    },
+    {
+        "skill":"Java",
+        "src": ""
+    },
+    {
+        "skill":"Java",
+        "src": ""
+    },
+    {
+        "skill":"Java",
+        "src": ""
+    },
+    {
+        "skill":"Java",
+        "src": ""
+    },
+    {
+        "skill":"Java",
+        "src": ""
+    }
+]

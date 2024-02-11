@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "python.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "Java.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "c.png"
+  },
+  {
+    "title":"html",
+    "imageSrc":"html.png"
+  },
+  {
+    "title":"css",
+    "imageSrc":"css.png"
+  },
+  {
+    "title":"js",
+    "imageSrc":"js.png"
+  },
+  {
+    "title":"SQL",
+    "imageSrc":"sql.webp"
+  },
+  {
+    "title":"psql",
+    "imageSrc":"psql.jpeg"
+  },
+  {
+    "title":"mongoDB",
+    "imageSrc":"mongo.avif"
+  },
+  {
+    "title":"node",
+    "imageSrc":"node.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "React.webp"
+  },
+  {
+    "title":"Selemium",
+    "imageSrc":"selenium.png"
+  },
+  {
+    "title":"robot",
+    "imageSrc":"robot.png"
+  },
+  {
+    "title":"postman",
+    "imageSrc":"postman.png"
+  },
+  {
+    "title":"ws",
+    "imageSrc":"ws.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "aws.png"
+  },
+  {
+    "title": "VMware",
+    "imageSrc": "vmware.png"
+  },
+  {
+    "title":"Docker",
+    "imageSrc":"docker.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "kube.png"
+  },
+  {
+    "title": "Terraform",
+    "imageSrc": "terraform.svg"
+  },
+  {
+    "title":"jira",
+    "imageSrc":"jira.png"
+  },
+  {
+    "title":"confluence",
+    "imageSrc":"conf.webp"
+  }
+]

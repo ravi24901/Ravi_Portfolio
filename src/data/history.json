@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Gigamon",
+    "startDate": "Feb, 2023",
+    "endDate": "July, 2023",
+    "experiences": ["Rest API Automation via Robot Framework(Python).", "Traffic Validation in AWS, VMware, K8s on VMware and deployment using terraform.","Verified the support for AWS network&gateway load balancer for V-series Node.","Automated testcases for IPv6 suport in Gigamon Containerized Broker(Kubernetes)."],
+    "imageSrc": "Gigamon.png"
+  }
+]
