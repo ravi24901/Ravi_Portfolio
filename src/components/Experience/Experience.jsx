@@ -26,7 +26,7 @@ export const Experience = () => {
                   <pre>  </pre>
                   <p>
                     {historyItem.experiences.map((experience, id) => {
-                      return <li key={id}>{experience}</li>;
+                      return <li key={id} className={styles}>{experience}</li>;
                     })}
                   </p>
                 </div>

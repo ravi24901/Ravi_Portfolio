@@ -9,7 +9,7 @@
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
-  height: 600px;
+  height: 800px;
 }
 
 .title {
@@ -38,6 +38,9 @@
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
+  justify-content: center;
+  padding-left: 0;
+  padding-right: 10%;
 }
 
 .skill {
@@ -53,8 +56,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 85px;
-  height: 85px;
+  width: 140px;
+  height: 140px;
 }
 
 .skillImageContainer img {
