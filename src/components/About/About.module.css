@@ -9,7 +9,9 @@
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
-  height: 800px;
+  height: 100vh;
+  max-height:max-content;
+  overflow-y: auto;
 }
 
 .title {
