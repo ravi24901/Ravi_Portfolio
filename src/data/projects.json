@@ -2,7 +2,7 @@
   {
     "title": "Lung Cancer Prediction",
     "imageSrc": "lcp.png",
-    "description": "Predicts if a person is suffering from Lung Cancer.",
+    "description": "A project which predicts if a person is suffering from Lung Cancer.",
     "skills": ["Numpy", "Scikit-learn", "Pandas","Django"],
     "source": "https://github.com/ravi24901/Lung_Cancer_Prediction"
   },

@@ -9,7 +9,7 @@
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
-  height: 100vh;
+  min-height: 100vh;
   max-height:max-content;
   overflow-y: auto;
 }
@@ -64,4 +64,21 @@
 
 .skillImageContainer img {
   width: 75px;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    gap: 23px;
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .links {
+    align-items: center;
+  }
 }

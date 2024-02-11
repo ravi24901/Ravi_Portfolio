@@ -7,6 +7,7 @@
   margin-right: 10%;
   height: 550px;
   overflow-x: auto;
+  max-width: 1000vh;
 }
 
 .title {
@@ -75,8 +76,9 @@
 }
 
 .historyItem img {
-  width: 200px;
+  width: 150px;
   padding-right: 20px;
+
 }
 
 .historyItemDetails {
