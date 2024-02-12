@@ -5,10 +5,10 @@
   margin-top: 79px;
   margin-left: 10%;
   margin-right: 10%;
-  height: 550px;
-  overflow-x: auto;
-  
+  min-height: 100vh;
+  max-width: 500px;
   min-width: 200px;
+  max-width: 100vw;
 }
 
 .title {
