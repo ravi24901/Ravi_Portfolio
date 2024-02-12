@@ -12,9 +12,7 @@
 }
 
 .content {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
+  align-items:start;
   color: var(--color-text);
   z-index: 1;
 }
@@ -53,13 +51,10 @@
 }
 
 .heroImg {
-  width: 44%;
+  width: 39%;
   z-index: 1;
   border-radius: 50%;
-  animation-name: floating;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
+  
 }
 
 @keyframes floating {

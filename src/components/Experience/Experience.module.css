@@ -65,8 +65,7 @@
 }
 
 .historyItem {
-  display: flex;
-  flex-direction: row;
+  
   align-items: center;
   gap: 17px;
   background: #4d4f53;
@@ -77,7 +76,7 @@
 }
 
 .historyItem img {
-  width: 150px;
+  width: 250px;
   padding-right: 20px;
 
 }
